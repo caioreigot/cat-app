@@ -1,12 +1,11 @@
 import React from "react";
 import { Text, View, StyleSheet } from 'react-native';
+import Button from './components/Button.jsx'
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>
-        Hello World
-      </Text>
+      <Button></Button>
     </View>
   );
 }
@@ -14,7 +13,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
+    justifyContent: 'end',
     alignItems: 'center',
   },
 });
