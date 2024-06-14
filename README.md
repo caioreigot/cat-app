@@ -1,0 +1,3 @@
+- Caio Costa Reigota Rodrigues: 2040482213001
+- Gustavo de Oliveira Sato: 2040482213018
+- Maria Eduarda Magalhães Moura: 2040482213030
